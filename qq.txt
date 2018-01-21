@@ -1,0 +1,9 @@
+1.git init in cmd
+2.First create a new repository in github account.
+3.Then create a new folder for project.
+4.open gitbash there.
+5.cpoy echo "# Sirius1" >> README.md there.
+6.
+
+ git config --global user.email "manshan2406@gmail.com"
+ git config --global user.name "Manikandan2498"
